@@ -1,1 +1,1 @@
-This repository is for my DataGlacier virtual internship.
+This 'new-branch' was created for the first assignment 'Version Control' 
